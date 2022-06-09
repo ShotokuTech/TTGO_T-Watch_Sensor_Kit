@@ -7,6 +7,7 @@
 
 //MACROS are defined here
 TTGOClass *ttgo;
+TFT_eSPI *tft;
 Adafruit_NeoPixel Strip_1 = Adafruit_NeoPixel(4, 25, NEO_GRB + NEO_KHZ800);
 
 void setup() {
