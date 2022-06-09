@@ -1,1 +1,2 @@
-'class Adafruit_NeoPixel' has no member named 'pattern2'
+Failed to compile: 'class Adafruit_NeoPixel' has no member named 'pattern2'
+This is likely due to some difference in the libraries included with PictoBlox versus Arduino IDE.
